@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Harry Poter 1",
+        "year": "2000",
+        "type": "pelicula",
+        "likes": 0
+    },
+    {
+        "title": "Harry Poter 2",
+        "year": "2002",
+        "type": "pelicula",
+        "likes": 0
+    },
+    {
+        "title": "Harry Poter 3",
+        "year": "2005",
+        "type": "pelicula",
+        "likes": 0
+    },
+    {
+        "title": "Soy leyenda",
+        "year": "2006",
+        "type": "pelicula",
+        "likes": 0
+    },
+    {
+        "title": "Vikingos",
+        "year": "2018",
+        "type": "serie",
+        "likes": 0
+    },
+    {
+        "title": "How I met your mother",
+        "year": "2008",
+        "type": "serie",
+        "likes": 0
+    },
+    {
+        "title": "Kung fu panda 1",
+        "year": "2008",
+        "type": "pelicula",
+        "likes": 0
+    },
+    {
+        "title": "Kung fu panda 2",
+        "year": "2010",
+        "type": "pelicula",
+        "likes": 0
+    },
+    {
+        "title": "Kung fu panda 3",
+        "year": "2018",
+        "type": "pelicula",
+        "likes": 0
+    },
+    {
+        "title": "Transformers",
+        "year": "2018",
+        "type": "pelicula",
+        "likes": 0
+    },
+    {
+        "title": "Iron man",
+        "year": "2018",
+        "type": "pelicula",
+        "likes": 0
+    },
+    {
+        "title": "Guardianes de la galaxia",
+        "year": "2018",
+        "type": "pelicula",
+        "likes": 0
+    },
+    {
+        "title": "The boys",
+        "year": "2015",
+        "type": "serie",
+        "likes": 0
+    },
+    {
+        "title": "Death Note",
+        "year": "2004",
+        "type": "serie",
+        "likes": 0
+    }
+]

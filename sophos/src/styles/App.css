@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(0, 0, 0);
+}
+
+h2{
+  color: #434955;
+}
+
+.titles {
+  display: flex;
+  justify-content: left;
+  flex-direction: column;
+  background-color: rgb(207, 207, 207);
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.options{
+  background-color: rgb(207, 207, 207);
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  margin: auto;
+}
+
+.options button{
+  width: 100px;
+  height: 40px;
+}
